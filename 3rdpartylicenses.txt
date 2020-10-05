@@ -58,12 +58,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-@nexucis/codemirror-next-autocomplete
-MIT
-
-@nexucis/fuzzy
-MIT
-
 codemirror-promql
 MIT
 
